@@ -5,7 +5,7 @@
 		<nama_ikan>Tuna</nama_ikan>
 		<latitute>-6.25489</latitute>
 		<longitude>106.08895</longitude>
-		<foto>"images/ikan-cakalang.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-cakalang.jpg"</foto>
 		<jumlah>122</jumlah>
 		<harga_kg>1000000</harga_kg>
 	</ItemRow>
@@ -14,7 +14,7 @@
 		<nama_ikan>Kakap</nama_ikan>
 		<latitute>-3.25489</latitute>
 		<longitude>100.08895</longitude>
-		<foto>"images/ikan-kakap.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-kakap.jpg"</foto>
 		<jumlah>123</jumlah>
 		<harga_kg>100000</harga_kg>
 	</ItemRow>
@@ -23,7 +23,7 @@
 		<nama_ikan>Bawal</nama_ikan>
 		<latitute>-0.25489</latitute>
 		<longitude>94.08895</longitude>
-		<foto>"images/ikan-kembung.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-kembung.jpg"</foto>
 		<jumlah>124</jumlah>
 		<harga_kg>1000000</harga_kg>
 	</ItemRow>
@@ -32,7 +32,7 @@
 		<nama_ikan>Tongkol</nama_ikan>
 		<latitute>2.74511</latitute>
 		<longitude>88.08895</longitude>
-		<foto>"images/ikan-makarel.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-makarel.jpg"</foto>
 		<jumlah>125</jumlah>
 		<harga_kg>100000</harga_kg>
 	</ItemRow>
@@ -41,7 +41,7 @@
 		<nama_ikan>Bluemarine</nama_ikan>
 		<latitute>5.74511</latitute>
 		<longitude>82.08895</longitude>
-		<foto>"images/ikan-tenggiri.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-tenggiri.jpg"</foto>
 		<jumlah>126</jumlah>
 		<harga_kg>2000000</harga_kg>
 	</ItemRow>
@@ -50,7 +50,7 @@
 		<nama_ikan>Kapap Merah</nama_ikan>
 		<latitute>8.74511</latitute>
 		<longitude>76.08895</longitude>
-		<foto>"images/ikan-kakap.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-kakap.jpg"</foto>
 		<jumlah>127</jumlah>
 		<harga_kg>1000000</harga_kg>
 	</ItemRow>
@@ -59,7 +59,7 @@
 		<nama_ikan>Patin</nama_ikan>
 		<latitute>11.74511</latitute>
 		<longitude>70.08895</longitude>
-		<foto>"images/ikan-tongkol.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-tongkol.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>200000</harga_kg>
 	</ItemRow>
@@ -68,7 +68,7 @@
 		<nama_ikan>Tuna</nama_ikan>
 		<latitute>14.74511</latitute>
 		<longitude>64.08895</longitude>
-		<foto>"images/ikan-tuna.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-tuna.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>1000000</harga_kg>
 	</ItemRow>
@@ -77,7 +77,7 @@
 		<nama_ikan>Blue Marine</nama_ikan>
 		<latitute>17.74511</latitute>
 		<longitude>58.08895</longitude>
-		<foto>"images/ikan-bluemarlin.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-bluemarlin.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>1000000</harga_kg>
 	</ItemRow>
@@ -86,7 +86,7 @@
 		<nama_ikan>Teri</nama_ikan>
 		<latitute>20.74511</latitute>
 		<longitude>52.08895</longitude>
-		<foto>"images/ikan-teri.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-teri.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>100000</harga_kg>
 	</ItemRow>
@@ -95,7 +95,7 @@
 		<nama_ikan>krapu</nama_ikan>
 		<latitute>23.74511</latitute>
 		<longitude>46.08895</longitude>
-		<foto>"images/ikan-krapu.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-krapu.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>200000</harga_kg>
 	</ItemRow>
@@ -104,7 +104,7 @@
 		<nama_ikan>Makarel</nama_ikan>
 		<latitute>26.74511</latitute>
 		<longitude>40.08895</longitude>
-		<foto>"images/ikan-makarel.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-makarel.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>100000</harga_kg>
 	</ItemRow>
@@ -113,7 +113,7 @@
 		<nama_ikan>Baronang</nama_ikan>
 		<latitute>29.74511</latitute>
 		<longitude>34.08895</longitude>
-		<foto>"images/ikan-baronang.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-baronang.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>200000</harga_kg>
 	</ItemRow>
@@ -122,7 +122,7 @@
 		<nama_ikan>Tenggiri</nama_ikan>
 		<latitute>32.74511</latitute>
 		<longitude>28.08895</longitude>
-		<foto>"images/ikan-tenggiri.jpg"</foto>
+		<foto>"https://lhardanto19.github.io/datanelayan/ikan-tenggiri.jpg"</foto>
 		<jumlah>128</jumlah>
 		<harga_kg>1000000</harga_kg>
 	</ItemRow>
